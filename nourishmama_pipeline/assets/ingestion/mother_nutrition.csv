@@ -1,0 +1,11 @@
+food_id,food_name,category,nutrient,value_per_100g,unit
+1,Oats,Grains,Iron,4.3,mg
+2,Spinach,Vegetables,Iron,2.7,mg
+3,Lentils,Legumes,Protein,9.0,g
+4,Greek Yogurt,Dairy,Calcium,110,mg
+5,Salmon,Fish,Protein,20.4,g
+6,Broccoli,Vegetables,Vitamin C,89.2,mg
+7,Almonds,Nuts,Magnesium,270,mg
+8,Egg,Eggs,Protein,13.0,g
+9,Chickpeas,Legumes,Folate,172,mcg
+10,Sardines,Fish,Calcium,382,mg

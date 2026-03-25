@@ -1,6 +1,0 @@
-name: ingestion.foods_seed
-type: python
-connection: duckdb_local
-
-materialization:
-  type: table
