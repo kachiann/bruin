@@ -2,6 +2,7 @@
 
 **A Bruin-powered data pipeline and dashboard for nutrition insights for first-time mums and nursing mothers**
 
+Built from a real-life need as a first-time mum, NourishMama transforms nutrition data into simple, actionable insights to support recovery, breastfeeding, and healthy baby feeding choices.
 ---
 
 ## 💡 Problem
